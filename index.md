@@ -1,7 +1,10 @@
 ---
-layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+layout: page
+title: Welcome
 image:
-  feature: texture-feature-01.jpg
+  feature: peppled_beech_texture_8_cropped.jpg
 ---
+
+
+Welcome to our wedding website!
+

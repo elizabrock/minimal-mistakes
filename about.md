@@ -1,21 +1,25 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
+title: About Eliza & Keith
 image:
-  feature: texture-feature-02.jpg
+  feature: peppled_beech_texture_8_cropped.jpg
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com) as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+<div class="half">
+<div class="section">
+  <h2>Eliza</h2>
+  <p>Eliza grew up in the United States and graduated from Hume-Fogg Highschool in Nashville, TN.  She went to college at <a href="http://www.rose-hulman.edu/">Rose-Hulman Institute of Technology</a>.  She currently runs her own software consultancy, <a href="http://elizabrocksoftware.com">Eliza Brock Software</a></p>
+</div>
 
-## Minimal Mistakes is all about:
+<div class="section">
+  <h2>Keith</h2>
+  <p>Keith grew up in New Castle, IN.  He went to college at <a href="http://www.rose-hulman.edu/">Rose-Hulman Institute of Technology</a>.  He is currently CTO of <a href="http://zeumo.com">Zeumo</a>, a startup seeking to bridge the communication gap with teenagers.</p>
+</div>
+</div>
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments. Content first --- other widget nonsense never.
-* Large feature images for posts and pages.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+## Together
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Keith and Eliza met in 2005 when they ended up living in <a href="http://www.rose-hulman.edu/about/facilities/student-life-housing/percopo-hall.aspx">neighboring dormitory suites</a>.
+
+They now live in Nashville, TN and are in the process of buying their first home and, of course, getting married!
