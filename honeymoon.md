@@ -10,6 +10,4 @@ We'll be honeymooning in Baltimore, at the same bed and breakfast where we had o
 
 [<img src="/images/scarborough-fair.jpg">](http://www.scarboroughfairbandb.com/)
 
-[<img src="/images/hickoryvale0.jpg">](http://www.scarboroughfairbandb.com/)
-
-We're hoping to spend a week in Baltimore, if time allows.
+We're hoping to spend a week in Baltimore, if time and budget allows.

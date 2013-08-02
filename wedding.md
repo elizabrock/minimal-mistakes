@@ -42,13 +42,13 @@ We will be holding both the wedding and the reception in the backyard.
   <figcaption>Street View of 5001 Indiana Ave. Note the church on the left.<a href="https://maps.google.com/maps?q=5001+Indiana+Ave,+Nashville,+Davidson,+Tennessee+37209&amp;layer=c&amp;sll=36.156181,-86.847585&amp;cbp=13,177.8,,0,4.08&amp;cbll=36.156518,-86.847677&amp;hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=5001+Indiana+Ave,+Nashville,+Davidson,+Tennessee+37209&amp;ll=36.156181,-86.847585&amp;spn=0.002571,0.003849&amp;t=m&amp;z=14&amp;panoid=feOTA0OEyEhXn52RDbnX4g&amp;source=embed">View Larger Map</a></figcaption>
 </figure>
 
-### Ceremony 5:30 PM
+### Ceremony 5:30 PM CDT
 
 We will have a small ceremony, officiated by a friend.
 
 Hopefully there will be some nice music and heartfelt words.
 
-### Reception 6:00 PM
+### Reception 6:00 PM CDT
 
 Our reception will also be hosted in the backyard.
 
@@ -56,7 +56,7 @@ We will start with Champagne & Cake because.. no need to save the best for last.
 
 We will be serving food and drink, however none of that has been determined yet.  Please let us know if you have special dietary needs.
 
-### After-party 7:00 PM
+### After-party 7:00 PM CDT
 
 The [Ruby Hoedown](http://rubyhoedown.com/) after-party will be occuring in conjunction with our reception.
 

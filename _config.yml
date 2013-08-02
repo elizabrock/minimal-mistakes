@@ -23,7 +23,7 @@ owner:
 # For external links add external: true
 links:
   - title: About Us
-    url: /about
+    url: /
   - title: The Wedding
     url: /wedding
   - title: Gifts!
