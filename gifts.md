@@ -6,7 +6,7 @@ image:
   feature: textures-large-24-cropped.jpg
 ---
 
-I (Eliza) am going to be honest here.  I love gifts. Love them. However, Keith and I have been living on our own for a while now, and we really just don't need very many things.
+I (Eliza) am going to be honest here.  I love gifts. Love them. However, Keith and I are buying a home built in 1930 that is a "fixer-upper" that really needs some love.  We'll be modernizing the kitchen, replacing ancient old sash windows and all kinds of other soon-to-be-discovered projects.
 
 So, if you're in the giving mood, we'd much prefer that you help us with outfitting the house (or the honeymoon!) through our Honeyfund registry.
 

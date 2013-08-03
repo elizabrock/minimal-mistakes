@@ -9,7 +9,7 @@ image:
 <div class="half">
 <div class="section">
   <h2>Eliza</h2>
-  <p>Eliza grew up in the United States and graduated from Hume-Fogg Highschool in Nashville, TN.  She went to college at <a href="http://www.rose-hulman.edu/">Rose-Hulman Institute of Technology</a>.  She currently runs her own software consultancy, <a href="http://elizabrocksoftware.com">Eliza Brock Software</a></p>
+  <p>Eliza grew up in the United States and graduated from Hume-Fogg Academic Magnet High School in Nashville, TN.  She went to college at <a href="http://www.rose-hulman.edu/">Rose-Hulman Institute of Technology</a>.  She currently runs her own software consultancy, <a href="http://elizabrocksoftware.com">Eliza Brock Software</a></p>
 </div>
 
 <div class="section">

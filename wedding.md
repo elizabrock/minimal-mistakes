@@ -32,6 +32,8 @@ The house is located at 5001 Indiana Ave., Nashville, TN 37209.
 
 We will be holding both the wedding and the reception in the backyard.
 
+You can park at the church next door, or on the street.
+
 <figure>
   <iframe width="640" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=5001+Indiana+Ave,+Nashville,+Davidson,+Tennessee+37209&amp;sll=36.156181,-86.847585&amp;hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=5001+Indiana+Ave,+Nashville,+Davidson,+Tennessee+37209&amp;t=m&amp;ll=36.162617,-86.846666&amp;spn=0.024253,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
   <figcaption>Map of 5001 Indiana Ave. <a href="https://maps.google.com/maps?q=5001+Indiana+Ave,+Nashville,+Davidson,+Tennessee+37209&amp;sll=36.156181,-86.847585&amp;hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=5001+Indiana+Ave,+Nashville,+Davidson,+Tennessee+37209&amp;ll=36.156181,-86.847585&amp;spn=0.010282,0.015396&amp;t=m&amp;z=14&amp;source=embed">(View Larger Map)</a></figcaption>
@@ -86,4 +88,4 @@ Please dress comfortably.  We will be outside for most of the evening and it wil
 
 You'll be walking around on a lawn, so stilletos are probably not a wise choice.
 
-The bride will be wearing a full-length sleeveless dress.  The groom will be wearing a suit.
+The bride will be wearing a full-length off-the-shoulder dress.  The groom will be wearing a suit.
