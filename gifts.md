@@ -21,9 +21,12 @@ Since we're in the midst of buying a house (closing Aug. 15), this is the best p
 <div style="width:200px;margin:0 auto;"><a href="http://www.honeyfund.com/wedding/brockmarcum" style="text-align:left;background:url('http://www.honeyfund.com/share/honeyfund3.png') no-repeat;display:block;width:200px;height:100px;text-indent:-9999em;">Visit our honeyfund at Honeyfund.com, the free honeymoon registry</a></div>
 
 
-### Amazon
+### Amazon & Macy's
 
-We have also prepared a small Amazon registry of household goods that we'd quite enjoy.
+We have also prepared registries at Amazon and Macy's with household goods that we'd quite enjoy.
 
 <br/>
-[<img src="/images/amazonlogo.gif">](http://www.amazon.com/gp/registry/registry.html/ref=br_ov?ie=UTF8&msg=how-others-see-list-info&type=wedding&visitor-view=1)
+<p>
+<a href="http://www.amazon.com/gp/registry/registry.html/ref=br_ov?ie=UTF8&amp;msg=how-others-see-list-info&amp;type=wedding&amp;visitor-view=1"><img src="/images/amazonlogo.gif" /></a>
+&nbsp;
+<a href="http://www.macys.com/registry/wedding/guest/?registryId=2118786"><img src="/images/macys-wed-and-gift-registry.gif" width="116px" /></a></p>
