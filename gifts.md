@@ -27,6 +27,6 @@ We have also prepared registries at Amazon and Macy's with household goods that 
 
 <br/>
 <p>
-<a href="http://www.amazon.com/gp/registry/registry.html/ref=br_ov?ie=UTF8&amp;msg=how-others-see-list-info&amp;type=wedding&amp;visitor-view=1"><img src="/images/amazonlogo.gif" /></a>
+<a href="http://www.amazon.com/gp/registry/wedding/1VBQC9PT2I94Y"><img src="/images/amazonlogo.gif" /></a>
 &nbsp;
 <a href="http://www.macys.com/registry/wedding/guest/?registryId=2118786"><img src="/images/macys-wed-and-gift-registry.gif" width="116px" /></a></p>
