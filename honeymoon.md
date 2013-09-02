@@ -6,8 +6,8 @@ image:
   feature: textures-large-21-cropped.jpg
 ---
 
-We'll be honeymooning in Baltimore, at the same bed and breakfast where we had our first vacation as a couple!
+We'll be honeymooning in Chattanooga, at the Mayor's Mansion Inn.
 
-[<img src="/images/scarborough-fair.jpg">](http://www.scarboroughfairbandb.com/)
+[<img src="/images/mayors-mansion-inn.jpg">](http://www.bedandbreakfast.com/tennessee-chattanooga-mayorsmansioninn.html)
 
-We're hoping to spend a week in Baltimore, if time and budget allows.
+We might just have time for a day trip to IKEA, too ;)
