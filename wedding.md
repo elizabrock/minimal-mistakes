@@ -18,21 +18,21 @@ image:
 
 ## Overview
 
-We will be marrying in the backyard of our good friend, Rick Bradley.
+We will be marrying in the backyard of our good friend, Rick Bradley, who has kindly offered to host our wedding as part of his annual party.
 
-The wedding will be at 5:30, followed by a quick family-and-friends reception. At 7:00, we will be joined by more friends as well as the attendees of the Ruby Hoedown conference.
+The wedding will be at 5:30, followed by a quick family-and-friends reception. At 7:00, we will be joined by more friends, as part of Rick's annual party!
 
 Food, drinks, and cake will all be served!
 
 You have the option to stay as late as you like, or to head home once the private part of the evening concludes (7PM).
 
-## Venue
+## Venue / Location
 
 The house is located at 5001 Indiana Ave., Nashville, TN 37209.
 
 We will be holding both the wedding and the reception in the backyard.
 
-You can park at the church next door, or on the street.
+You can park at the church next door, or on the street.  Please note that the wedding is occurring in Rick's backyard (not at the church!).
 
 <figure>
   <iframe width="640" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=5001+Indiana+Ave,+Nashville,+Davidson,+Tennessee+37209&amp;sll=36.156181,-86.847585&amp;hl=en&amp;ie=UTF8&amp;hq=&amp;hnear=5001+Indiana+Ave,+Nashville,+Davidson,+Tennessee+37209&amp;t=m&amp;ll=36.162617,-86.846666&amp;spn=0.024253,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
@@ -56,15 +56,13 @@ Our reception will also be hosted in the backyard.
 
 We will start with Champagne & Cake because.. no need to save the best for last.
 
-We will be serving food and drink, however none of that has been determined yet.  Please let us know if you have special dietary needs.
-
 ### After-party 7:00 PM CDT
 
-The [Ruby Hoedown](http://rubyhoedown.com/) after-party will be occuring in conjunction with our reception.
-
-The Ruby Hoedown is a two-day professional conference.  As many of our friends are in town for the Hoedown and will be attending the Hoedown after-party anyway, combining the two events is a perfect way to see everyone and have fun!
+This portion of the evening is open to the public, so more of our friends and acquaintances will be joining us at this point!
 
 After 7, there will be plenty of people showing up that may or may not know Keith and Eliza well.  It will be a general fun time for all, rather than a formal event.
+
+There will be food (with vegetarian options), homebrewed beer and so on!
 
 There is usually impromptu live music, great conversation and lovely weather.
 
