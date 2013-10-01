@@ -84,6 +84,6 @@ It would be nice if you dress up a little (i.e. a collared shirt or a weather-ap
 
 Please dress comfortably.  We will be outside for most of the evening and it will get a little chilly after dark.
 
-You'll be walking around on a lawn, so stilletos are probably not a wise choice.
+You'll be walking around on a lawn, so stilettos are probably not a wise choice.
 
 The bride will be wearing a full-length off-the-shoulder dress.  The groom will be wearing a suit.
