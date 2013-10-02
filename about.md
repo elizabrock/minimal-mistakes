@@ -14,7 +14,7 @@ image:
 
 <div class="section">
   <h2>Keith</h2>
-  <p>Keith grew up in New Castle, IN.  He went to college at <a href="http://www.rose-hulman.edu/">Rose-Hulman Institute of Technology</a>.  He is currently CTO of <a href="http://zeumo.com">Zeumo</a>, a startup seeking to bridge the communication gap with teenagers.</p>
+  <p>Keith grew up in New Castle, IN.  He went to college at <a href="http://www.rose-hulman.edu/">Rose-Hulman Institute of Technology</a>.  He is currently CTO of <a href="https://www.zeumo.com">Zeumo</a>, a startup seeking to bridge the communication gap with teenagers.</p>
 </div>
 </div>
 
