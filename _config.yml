@@ -2,7 +2,7 @@ title:            Eliza and Keith Are Getting Married!
 tagline:          October 5th, 2013
 description:      Keith Marcum and Eliza Brock, getting hitched
 #Comment out url when working locally to resolve base urls correctly
-url:              http://brockmarcum.com
+baseurl: /elizabrock.github.io
 
 # Owner/author information
 owner:
